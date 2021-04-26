@@ -181,22 +181,6 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.top_layer {
-  width: 100%;
-  height: 20%;
-  background-color: #201dd4;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  border-radius: 1rem;
-  padding: 2rem 0;
-}
-
-.top_layer p {
-  color: #fff;
-  font-weight: 300;
-}
-
 .main_layer {
   width: 100%;
   height: 80%;
