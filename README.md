@@ -1,1 +1,1 @@
-# weather web application using handlerbars 
+# weather web application using handlebars 
